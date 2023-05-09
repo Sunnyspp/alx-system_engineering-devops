@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/110999535/234044912-d7c6bea9-62d8-4787-aa26-78c34ce614f3.png)
+
+
 BooktifuL requests failure report
 Last week, it was reported that the BooktifuL platform was returning 500 Error on all requests made on the platform routes, all the services were down. 90% of the users were affected. The root cause was the failure of our master server web-01.
 
